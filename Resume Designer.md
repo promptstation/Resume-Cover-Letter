@@ -382,4 +382,4 @@ Here's the link:
 
 [ https://github.com/promptstation/Resume-Designer ]
 
-Load all skill files from https://github.com/promptstation/Resume-Designer. It's a public repo with 10 top-level domain folders, each containing 15 sub-folders with a SKILL.md. 150 files total. Enumerate the full tree via the GitHub API or git clone/tarball — do not rely on the rendered HTML page. Confirm the file count before starting, and if you cannot load them, stop and tell me rather than proceeding
+Load all skill files from https://github.com/promptstation/Resume-Designer. It's a public repo with  top-level domain folders, each containing sub-folders with a SKILL.md files. Enumerate the full tree via the GitHub API or git clone/tarball — do not rely on the rendered HTML page. Confirm the file count before starting, and if you cannot load them, stop and tell me rather than proceeding
